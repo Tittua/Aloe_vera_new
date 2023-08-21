@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57c8533a3ebcb71ea4ad4771b09f125d11b2e5e64dd75375064a18824b6cf68d
-size 7
+libgl1
