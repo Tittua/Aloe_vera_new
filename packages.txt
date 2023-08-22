@@ -1,3 +1,2 @@
 libgl1
-kaggle
 kaggle datasets download -d tittuanzar/weight
