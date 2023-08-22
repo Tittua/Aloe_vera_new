@@ -29,7 +29,6 @@ opencv-python-headless
 packaging==23.1
 pandas==2.0.3
 Pillow==9.5.0
-pickle
 protobuf==4.24.0
 psutil==5.9.5
 py-cpuinfo==9.0.0
